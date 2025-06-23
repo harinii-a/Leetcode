@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harinii-a/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/harinii-a/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harinii-a/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harinii-a/Leetcode/tree/master/0027-remove-element) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harinii-a/Leetcode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
