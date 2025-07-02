@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/harinii-a/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/harinii-a/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/harinii-a/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/harinii-a/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/harinii-a/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/harinii-a/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
