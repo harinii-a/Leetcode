@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harinii-a/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/harinii-a/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/harinii-a/Leetcode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/harinii-a/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/harinii-a/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/harinii-a/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harinii-a/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/harinii-a/Leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/harinii-a/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
