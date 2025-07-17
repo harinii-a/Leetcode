@@ -15,7 +15,7 @@ class Solution {
             }
             else if(height[i]==height[j]){
                 i++;
-                j--;
+            
             }
             else{
                 j--;
