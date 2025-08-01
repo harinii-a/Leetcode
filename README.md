@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
 | [2551-apply-operations-to-an-array](https://github.com/harinii-a/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/harinii-a/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/harinii-a/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harinii-a/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
