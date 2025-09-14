@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harinii-a/Leetcode/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/harinii-a/Leetcode/tree/master/0917-boats-to-save-people) |
+| [2032-largest-odd-number-in-string](https://github.com/harinii-a/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harinii-a/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/harinii-a/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
+| [2032-largest-odd-number-in-string](https://github.com/harinii-a/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
+| [2032-largest-odd-number-in-string](https://github.com/harinii-a/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
