@@ -6,18 +6,19 @@ class Solution {
     
         Arrays.sort(strs);
         int a=0;
+        int count=0;
         String res="";
       int len1=strs[0].length();
         while(a < len1){
             if(strs[0].charAt(a)==strs[len-1].charAt(a)){
-                res+=strs[0].charAt(a);
+                count++;
                 a++;
             }
             else{
-                return res;
+                return strs[0].substring(0,count);
             }
         }
 
-        return res;
+        return strs[0].substring(0,count);
     }
 }
