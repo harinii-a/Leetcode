@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harinii-a/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/harinii-a/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/harinii-a/Leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/harinii-a/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/harinii-a/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/harinii-a/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
