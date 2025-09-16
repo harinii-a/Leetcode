@@ -2,6 +2,7 @@ class Solution {
     public boolean isIsomorphic(String s, String t) {
         if(s.length()!=t.length()) return false;
         HashMap<Character,Character> map = new HashMap<>();
+        HashSet<Character> map1 = new HashSet<>();
         for(int i=0;i<t.length();i++){
             char a = s.charAt(i);
             char b = t.charAt(i);
@@ -12,10 +13,12 @@ class Solution {
             }
 
             if(!map.containsKey(a)){
-                if(map.containsValue(b)) return false;
+                if(map1.contains(b)) return false;
             }
             //key ila value iruku
             map.put(a,b);
+            map1.add(b);
+
 
         }
         return true;
