@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harinii-a/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harinii-a/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harinii-a/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harinii-a/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harinii-a/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/harinii-a/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harinii-a/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/harinii-a/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harinii-a/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/harinii-a/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harinii-a/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/harinii-a/Leetcode/tree/master/0392-is-subsequence) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/harinii-a/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/harinii-a/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
