@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/harinii-a/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/harinii-a/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/harinii-a/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/harinii-a/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/harinii-a/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/harinii-a/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/harinii-a/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harinii-a/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/harinii-a/Leetcode/tree/master/0792-binary-search) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/harinii-a/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/harinii-a/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harinii-a/Leetcode/tree/master/0169-majority-element) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/harinii-a/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
 | ------- |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harinii-a/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/harinii-a/Leetcode/tree/master/0206-reverse-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/harinii-a/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
