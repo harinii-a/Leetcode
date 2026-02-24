@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/harinii-a/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/harinii-a/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harinii-a/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/harinii-a/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harinii-a/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harinii-a/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/harinii-a/Leetcode/tree/master/0136-single-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harinii-a/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/harinii-a/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/harinii-a/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/harinii-a/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/harinii-a/Leetcode/tree/master/2032-largest-odd-number-in-string) |
