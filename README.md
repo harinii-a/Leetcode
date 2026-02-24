@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/harinii-a/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/harinii-a/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/harinii-a/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/harinii-a/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/harinii-a/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/harinii-a/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/harinii-a/Leetcode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/harinii-a/Leetcode/tree/master/0812-rotate-string) |
+| [1768-merge-strings-alternately](https://github.com/harinii-a/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/harinii-a/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
