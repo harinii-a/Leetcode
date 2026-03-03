@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/harinii-a/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/harinii-a/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/harinii-a/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2284-sender-with-largest-word-count](https://github.com/harinii-a/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2551-apply-operations-to-an-array](https://github.com/harinii-a/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/harinii-a/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harinii-a/Leetcode/tree/master/0389-find-the-difference) |
+| [2284-sender-with-largest-word-count](https://github.com/harinii-a/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/harinii-a/Leetcode/tree/master/0812-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/harinii-a/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/harinii-a/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2284-sender-with-largest-word-count](https://github.com/harinii-a/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/harinii-a/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2284-sender-with-largest-word-count](https://github.com/harinii-a/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 ## Math
 |  |
 | ------- |
