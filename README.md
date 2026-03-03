@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harinii-a/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harinii-a/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/harinii-a/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/harinii-a/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/harinii-a/Leetcode/tree/master/0792-binary-search) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harinii-a/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harinii-a/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harinii-a/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harinii-a/Leetcode/tree/master/0389-find-the-difference) |
 | [0917-boats-to-save-people](https://github.com/harinii-a/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harinii-a/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/harinii-a/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harinii-a/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harinii-a/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harinii-a/Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
@@ -131,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/harinii-a/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harinii-a/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/harinii-a/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harinii-a/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -176,5 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/harinii-a/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harinii-a/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
